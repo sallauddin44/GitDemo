@@ -1,2 +1,6 @@
 git file for rebase'
+<<<<<<< HEAD
 git for master modifing
+=======
+  for idea branch
+>>>>>>> idea
