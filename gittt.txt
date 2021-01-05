@@ -1,5 +1,12 @@
 git file for rebase'
 
+<<<<<<< HEAD
 
 
 B IS ADDED
+=======
+git for master modifing
+=======
+  for idea branch
+A is added
+>>>>>>> c09e711 ( gittt a is added)
