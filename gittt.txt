@@ -1,1 +1,2 @@
 git file for rebase'
+git for master modifing
